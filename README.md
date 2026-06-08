@@ -18,7 +18,7 @@ Atualmente, tenho me aprofundado na criação de soluções inteligentes. Gosto 
 
 ### 🏆 Formação & Certificações
 
-* **Bootcamp TOTVS 2026 - Fundamentos de Eng. de Dados e Machine Learning** | DIO *(Python, NoSQL, ETL’s, Cloud, AWS, Machine Learning - 61h)*
+* **Bootcamp TOTVS 2026 - Fund. de Eng. de Dados e Machine Learning** | DIO *(Python, NoSQL, ETL’s, Cloud, AWS, Machine Learning - 61h)*
 * **Bootcamp Santander 2025 - Fundamentos de Lógica de Programação** | DIO *(Lógica de Programação, JavaScript, Git e GitHub - 29h)*
 * **Bootcamp Bradesco 2026 - GenAI & Dados** | DIO*(Foco em Python, IA Generativa, SQL e ferramentas de dados - 52h)*
 
